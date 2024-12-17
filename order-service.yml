@@ -2,4 +2,4 @@ server:
   port: 8081
 
 app:
-  message: "Bienvenido al Servidor de Cofiguracion! Configuracion cargada desde Config Server."
+  message: "Bienvenido al Servidor de Cofiguracion! Configuracion cargada desde Config Server. 8888"
